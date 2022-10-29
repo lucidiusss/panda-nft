@@ -1,0 +1,53 @@
+{
+  "nfts": [
+    {
+      "id": 1,
+      "nftImg": "showcaseimg1.png"
+      "title": "Dao Vinci #0000",
+      "currentBidder": "@SalvadorDali",
+      "currentBid": "4.89eTH",
+      "expiresIn": "05 : 12 : 07 : 26",
+    },
+    {
+      "id": 2,
+      "nftImg": "showcaseimg2.png"
+      "title": "Fangster 8668",
+      "currentBidder": "@Kurrebe",
+      "currentBid": "4.89eTH",
+      "expiresIn": "05 : 12 : 07 : 26",
+    },
+    {
+      "id": 3,
+      "nftImg": "showcaseimg3.png"
+      "title": "Sherbet 3062",
+      "currentBidder": "@Noche",
+      "currentBid": "4.89eTH",
+      "expiresIn": "05 : 12 : 07 : 26",
+    },
+    {
+      "id": 4,
+      "nftImg": "showcaseimg4.png"
+      "title": "Cute Shiba",
+      "currentBidder": "@Noche",
+      "currentBid": "4.89eTH",
+      "expiresIn": "05 : 12 : 07 : 26",
+    },
+    {
+      "id": 5,
+      "nftImg": "showcaseimg5.png"
+      "title": "Cute monkey",
+      "currentBidder": "@Noche",
+      "currentBid": "4.89eTH",
+      "expiresIn": "05 : 12 : 07 : 26",
+    },
+    {
+      "id": 6,
+      "nftImg": "showcaseimg6.png"
+      "title": "Cute monkey",
+      "currentBidder": "@Noche",
+      "currentBid": "4.89eTH",
+      "expiresIn": "05 : 12 : 07 : 26",
+    },
+    
+  ],
+}
